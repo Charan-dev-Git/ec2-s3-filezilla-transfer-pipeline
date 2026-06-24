@@ -1,5 +1,5 @@
 aws_region       = "ap-south-1"
-bucket_name      = "charan-ec2-filezilla-s3-test"
+bucket_name      = "charan-demo-s3-test"
 instance_type    = "t3.micro"
-key_name         = "Ec2-pair-keys"
-allowed_ssh_cidr = "13.232.139.45/32"
+key_name         = "Ec2.key"
+allowed_ssh_cidr = "0.0.0.0/0"
